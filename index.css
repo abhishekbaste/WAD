@@ -1,0 +1,21 @@
+.explore{
+    background-color: rgb(181, 170, 170);
+    text-align: center;
+   
+    height: 200px;
+    justify-self: center;
+    margin: 50px 50px;
+}
+
+.btn{
+    padding: 0 250px;
+    margin: 0 50px;
+}
+.footer{
+    padding: 20px 0;
+    text-align: center;
+}
+a{
+    margin-right: 20px;
+    padding: 50px;
+}
